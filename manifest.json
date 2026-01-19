@@ -1,6 +1,6 @@
 {
   "name": "卒業旅行のしおり",
-  "short_name": "旅のしおり",
+  "short_name": "卒業旅行のしおり",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#111111",
@@ -25,4 +25,5 @@
   ]
 
 }
+
 
